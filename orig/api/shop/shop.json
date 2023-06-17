@@ -1,0 +1,40 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"image": "../../images/pages/eCommerce/1.png",
+			"name": "Product Name",
+			"desc": "This is the description of the product",
+			"category": "Appliances",
+			"price": 250,
+			"rating": "4.5"
+		},
+		{
+			"id": 2,
+			"image": "../../images/pages/eCommerce/1.png",
+			"name": "Product Name",
+			"desc": "This is the description of the product",
+			"category": "Appliances",
+			"price": 250,
+			"rating": "5"
+		},
+		{
+			"id": 3,
+			"image": "../../images/pages/eCommerce/1.png",
+			"name": "Product Name",
+			"desc": "This is the description of the product",
+			"category": "Appliances",
+			"price": 250,
+			"rating": "2"
+		},
+		{
+			"id": 4,
+			"image": "../../images/pages/eCommerce/1.png",
+			"name": "Product Name",
+			"desc": "This is the description of the product",
+			"category": "Appliances",
+			"price": 250,
+			"rating": "2"
+		}
+	]
+}

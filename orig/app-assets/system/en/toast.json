@@ -1,0 +1,189 @@
+[
+  {
+    "id": 10000,
+    "title": "",
+    "desc": "",
+    "type": "success"
+  },
+  {
+    "id": 10001,
+    "title": "Welcome {name}",
+    "desc": "You have successfully logged in.",
+    "type": "success"
+  },
+  {
+    "id": 10002,
+    "title": "Goodbye",
+    "desc": "You have successfully logged out. ",
+    "type": "success"
+  },
+  {
+    "id": 10003,
+    "title": "You earned <strong>{amount}</strong> points",
+    "desc": "You have successfully completed the <b>{offer_name}</b>.",
+    "type": "success"
+  },
+  {
+    "id": 10004,
+    "title": "Thank you!",
+    "desc": "Your report is sent successfully.",
+    "type": "success"
+  },
+  {
+    "id": 10005,
+    "title": "Error detected",
+    "desc": "There is an error detected.",
+    "type": "error"
+  },
+
+  {
+    "id": 10006,
+    "title": "Login",
+    "desc": "Incorrect username and/or password.",
+    "type": "danger"
+  },
+  {
+    "id": 10007,
+    "title": "Login",
+    "desc": "Account is not yet verified.",
+    "type": "info"
+  },
+  {
+    "id": 10008,
+    "title": "Login",
+    "desc": "Your account is banned permanently. Kindly read our guidelines. <a href='#test'><div class='badge badge-light-primary'>learn more</div></a>",
+    "type": "danger"
+  },
+  {
+    "id": 10009,
+    "title": "Login",
+    "desc": "Account is banned for {duration}. ",
+    "type": "warning"
+  },
+  {
+    "id": 100010,
+    "title": "Login",
+    "desc": "Account is locked. If you think this is wrong, kindly contact <a href='#test'>support</a>. ",
+    "type": "danger"
+  },
+  {
+    "id": 100011,
+    "title": "Something fishy...",
+    "desc": "Our system detected something wrong. ",
+    "type": "warning"
+  },
+  {
+    "id": 100012,
+    "title": "Purchase was unsuccessful",
+    "desc": "Our system detected something wrong. Kindly contact <a href='#test'>support</a>.",
+    "type": "warning"
+  },
+  {
+    "id": 100013,
+    "title": "User is not logged.",
+    "desc": "Kindly login to proceed your withdrawal.",
+    "type": "error"
+  },
+  {
+    "id": 100014,
+    "title": "Out of Stock",
+    "desc": "Sorry, we cannot proceed your withdrawals.",
+    "type": "warning"
+  },
+  {
+    "id": 100015,
+    "title": "Points is not enough.",
+    "desc": "Sorry, we cannot proceed your withdrawals.",
+    "type": "warning"
+  },
+  {
+    "id": 100016,
+    "title": "Congratulations!",
+    "desc": "You have purchased successfully. It will now be processed.",
+    "type": "success"
+  },
+  {
+    "id": 100017,
+    "title": "You purchased <b>{product_name}</b>",
+    "desc": "Thank you for your purchase.",
+    "type": "success"
+  },
+  {
+    "id": 100018,
+    "title": "User is not logged.",
+    "desc": "Cannot proceed request. Kindly login to continue.",
+    "type": "error"
+  },
+  {
+    "id": 100019,
+    "title": "Unable to fetch data.",
+    "desc": "We are unable to request the chat data. Kindly contact <a href='#test'>support</a>.",
+    "type": "error"
+  },
+  {
+    "id": 100020,
+    "title": "Unable to fetch data.",
+    "desc": "You are not authorized to perform this action.",
+    "type": "error"
+  },
+  {
+    "id": 100021,
+    "title": "Message not sent.",
+    "desc": "We are unable to perform this action, kindly email us.",
+    "type": "error"
+  },
+  {
+    "id": 100022,
+    "title": "Created Successfully",
+    "desc": "You have created your ticket successfully.",
+    "type": "success"
+  },
+  {
+    "id": 100023,
+    "title": "Ticket Failed",
+    "desc": "We are unable to perform this action, kindly email us.",
+    "type": "error"
+  },
+  {
+    "id": 100024,
+    "title": "Purchase Failed",
+    "desc": "Sorry, you cannot purchase at this time as 70% or more of your points are coming from promotions.",
+    "type": "error"
+  },
+  {
+    "id": 100025,
+    "title": "Changes saved",
+    "desc": "Successfully performed the action.",
+    "type": "success"
+  },
+  {
+    "id": 100026,
+    "title": "Changes not saved",
+    "desc": "Failed to perform the action.",
+    "type": "error"
+  },
+  {
+    "id": 100027,
+    "title": "Password changed",
+    "desc": "Successfully performed the action.",
+    "type": "success"
+  },
+  {
+    "id": 100028,
+    "title": "Password not saved",
+    "desc": "Old password is incorrect.",
+    "type": "error"
+  },
+  {
+    "id": 100029,
+    "title": "Password not saved",
+    "desc": "New password didn't match.",
+    "type": "error"
+  },
+  {
+    "id": 100030,
+    "title": "Password not saved",
+    "desc": "New password should not be similar to your previous password.",
+    "type": "error"
+  }
+]

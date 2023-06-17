@@ -1,0 +1,41 @@
+{
+    "user": {
+        "firstname": "James",
+        "lastname": "Javeluna",
+        "email" :  "javelunajames255@gmail.com",
+        "avatar": "https://SD/profile.png",
+        "type": 0,
+        "level": 1,
+        "exp": 234,
+        "money": 9000
+    },
+    "banInfo": {
+        "title": "Permanent Ban",
+        "desc": "Cheating"
+    },
+    "achievements": [
+        {
+            "title": "Beta Tester",
+            "date": "2022-08-31T16:00:00.000Z",
+            "avatar": "failed"
+        },
+        {
+            "title": "Achievement 2",
+            "date": "2022-09-16T16:00:00.000Z",
+            "avatar": "success"
+        }
+    ],
+    "notifications": [
+        {
+            "title": "Welcome Joe Doe",
+            "desc": "You have successfully logged in.",
+            "seen":  true
+        },
+        {
+            "title": "Achievement 2",
+            "date": "2022-09-16T16:00:00.000Z",
+            "seen":  true
+        }
+    ]
+
+}

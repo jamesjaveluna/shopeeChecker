@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^earn/([^/]+)$ ./earn.php?partner=$1 [L]
+RewriteRule ^shop/([0-9]+)/?$ ./shop.php?page=$1 [L]
+RewriteRule ^shop/([^/]+)/([a-zA-Z0-9]+)/?$ /item-details.php?slug=$1&page=$2 [L,QSA]
+RewriteRule ^profile/([0-9]+)/?$ ./user-profile.php?id=$1 [L]
+RewriteRule ^profile/([^/]+)/([a-zA-Z0-9]+)/?$ /user-profile.php?id=$1&page=$2 [L,QSA]
+
+
+ErrorDocument 400 /bad_request.html
+ErrorDocument 401 /page/not_authorized.php
+ErrorDocument 402 /forbidden.html
+ErrorDocument 403 /page/not_found.php
+ErrorDocument 404 /page/not_found.php
+

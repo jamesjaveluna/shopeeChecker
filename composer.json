@@ -1,0 +1,9 @@
+{
+  "config": {
+    "vendor-dir": "app-assets/vendors"
+  },
+  "require": {
+    "davmixcool/php-sentiment-analyzer": "^1.2",
+    "cocur/slugify": "^4.3"
+  }
+}

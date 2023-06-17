@@ -1,0 +1,14 @@
+ [
+    {
+      "id": 10100,
+      "title": "<span class=\"font-weight-bolder\">Congratulation! </span>Account confirmed. ",
+      "desc": "You earn <strong>{amount}</strong> for completing this task.",
+      "type": "success"
+    },
+    {
+      "id": 10101,
+      "title": "Account is banned",
+      "desc": "Description",
+      "type": "success"
+    }
+]
